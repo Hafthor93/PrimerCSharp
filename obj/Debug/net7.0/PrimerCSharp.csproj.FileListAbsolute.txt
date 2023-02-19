@@ -1,0 +1,15 @@
+/Users/hafthor/PrimerCSharp/bin/Debug/net7.0/PrimerCSharp
+/Users/hafthor/PrimerCSharp/bin/Debug/net7.0/PrimerCSharp.deps.json
+/Users/hafthor/PrimerCSharp/bin/Debug/net7.0/PrimerCSharp.runtimeconfig.json
+/Users/hafthor/PrimerCSharp/bin/Debug/net7.0/PrimerCSharp.dll
+/Users/hafthor/PrimerCSharp/bin/Debug/net7.0/PrimerCSharp.pdb
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.csproj.AssemblyReference.cache
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.AssemblyInfoInputs.cache
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.AssemblyInfo.cs
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.csproj.CoreCompileInputs.cache
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.dll
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/refint/PrimerCSharp.dll
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.pdb
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/PrimerCSharp.genruntimeconfig.cache
+/Users/hafthor/PrimerCSharp/obj/Debug/net7.0/ref/PrimerCSharp.dll
